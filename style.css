@@ -2,6 +2,10 @@
   margin: 0;
 }
 html,
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+}
 body {
   --black: hsl(240, 6%, 13%);
   --grey: hsl(240, 9%, 89%);
