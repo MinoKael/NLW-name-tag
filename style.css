@@ -4,7 +4,7 @@
 html,
 @media only screen 
 and (min-device-width : 320px) 
-and (max-device-width : 375px) {
+and (max-device-width : 480px) {
 }
 body {
   --black: hsl(240, 6%, 13%);
