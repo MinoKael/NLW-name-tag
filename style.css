@@ -16,7 +16,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 main {
-  background: url(images/background.svg);
+  background: url(images/background.png);
   width: 375px;
   height: 812px;
 }
