@@ -1,6 +1,6 @@
 const userLinks = {
   github: 'minokael',
-  linkedin: 'in/mikael-santana-1a5961223',
+  linkedin: 'in/mikaelsantana',
   facebook: 'minokael',
   instagram: 'minokael',
   twitter: 'minokael'
