@@ -2,10 +2,7 @@
   margin: 0;
 }
 html,
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-}
+
 body {
   --black: hsl(240, 6%, 13%);
   --grey: hsl(240, 9%, 89%);
@@ -16,9 +13,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 main {
-  background-image: url(images/background.png);
-  width: 375px;
-  height: 812px;
+  background: url(images/background.svg) no-repeat center/cover;
+  width: 100vw;
+  min-height: 812px;
+  height: 100vh;
 }
 .container {
   max-width: 250px;
